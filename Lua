@@ -5,7 +5,7 @@ local UserInputService = game:GetService("UserInputService")
 -- URLs
 local PC_SCRIPT = "https://raw.githubusercontent.com/Spv-Script/pc/refs/heads/main/a"
 local MOBILE_SCRIPT =
-    "https://raw.githubusercontent.com/Spv-Script/mobilehi/refs/heads/main/uwu%20iam%20so%20sigma%20%20hahahah%20iamshine%20skid%20hawk%20tuah%20toilet%20gyatttttttojhadofhiseghweiughewiugewgewgewg"
+    "https://raw.githubusercontent.com/GnomeStorage/SABADMINPANEL/refs/heads/main/Mobile"
 
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "ScriptLoaderUI"
